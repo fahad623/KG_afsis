@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ae409572-4727-41f9-bb57-90f8d535c114</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>VSProj.py</StartupFile>
+    <StartupFile>Code1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,8 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="VSProj.py" />
+    <Compile Include="Code1.py" />
+    <Compile Include="Test1.py" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
 </Project>
